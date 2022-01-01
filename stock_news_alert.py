@@ -6,9 +6,6 @@ COMPANY_NAME = "Tesla Inc"
 STOCK_ENDPOINT = "https://www.alphavantage.co/query"
 NEWS_ENDPOINT = "https://newsapi.org/v2/everything"
 
-STOCK_API_KEY = "FGAC4KOUD8WCDIH4"
-NEWS_API_KEY = "c10814f37495413296997be75c16a81f"
-
 # TODO 1. Get the stock Price and calculate the difference percent
 
 stock_params = {
